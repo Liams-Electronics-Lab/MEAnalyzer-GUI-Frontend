@@ -45,7 +45,7 @@ The application includes a standard workflow for cleaning the Intel Management E
 
 ---
 
-## Building from Source
+## Usage
 
 ### Prerequisites
 *   Python 3.x
@@ -61,7 +61,7 @@ The application includes a standard workflow for cleaning the Intel Management E
     ```bash
     python your_script_name.py
     ```
-
+OR simply run the exe from the release section, ensuring `meanalyzer.exe` and all other dependancies are present in the project root.
 ---
 
 ## Credits
