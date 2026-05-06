@@ -5,6 +5,11 @@ This project provides a graphical user interface for **MEAnalyzer**, for analyzi
 
 The current distribution is bundled with **MEAnalyzer v1.311.0 r377**.
 
+
+<img width="552" height="515" alt="main_window" src="https://github.com/user-attachments/assets/0b490461-71d7-4fac-af97-a5e130ac6798" />
+<img width="552" height="682" alt="Json" src="https://github.com/user-attachments/assets/5b6c8453-27c9-4c89-814d-6d47f4451c11" />
+
+
 ---
 
 ## Features
